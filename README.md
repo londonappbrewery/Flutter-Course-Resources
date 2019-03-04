@@ -4,6 +4,7 @@
 
 ## 1. I Am Rich App
 
+* [Effective Dart Language Guide](https://www.dartlang.org/guides/language/effective-dart)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Widgets Index](https://flutter.dev/docs/reference/widgets)
 
