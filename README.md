@@ -5,7 +5,7 @@
 ## 1. I Am Rich App
 
 * [Material Design](https://material.io/)
-
+* [Flutter Scaffold Class Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
 
 
 
