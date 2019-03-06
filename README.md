@@ -26,9 +26,5 @@
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
 * [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
 * [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
-
-
-
-
-* [Widgets Index](https://flutter.dev/docs/reference/widgets)
-* [Effective Dart Language Guide](https://www.dartlang.org/guides/language/effective-dart)
+* [Row Documentation](https://docs.flutter.io/flutter/widgets/Row-class.html)
+* [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
