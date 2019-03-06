@@ -20,7 +20,7 @@
 * [Vecteezy](https://www.vecteezy.com/)
 * [Canva](https://www.canva.com/)
 
-## 3. MiCard
+## 3. MiCard App
 
 * [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
