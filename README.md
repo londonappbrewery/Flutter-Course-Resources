@@ -23,11 +23,12 @@
 ## 3. MiCard
 
 * [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
-
-
-
-
-
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
+* [Container Documentation](https://docs.flutter.io/flutter/widgets/Container-class.html)
+* [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
+
+
+
+
 * [Widgets Index](https://flutter.dev/docs/reference/widgets)
 * [Effective Dart Language Guide](https://www.dartlang.org/guides/language/effective-dart)
