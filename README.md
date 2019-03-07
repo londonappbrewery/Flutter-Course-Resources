@@ -28,3 +28,4 @@
 * [Column Documentation](https://docs.flutter.io/flutter/widgets/Column-class.html)
 * [Row Documentation](https://docs.flutter.io/flutter/widgets/Row-class.html)
 * [Tomek's Flutter Layout Cheat Sheet](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
+* [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
