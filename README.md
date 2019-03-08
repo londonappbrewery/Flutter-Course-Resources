@@ -36,4 +36,5 @@
 * [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
+* [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
 
