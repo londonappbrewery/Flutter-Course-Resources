@@ -31,3 +31,7 @@
 * [Download fancy fonts from fonts.google.com](https://fonts.google.com/)
 * [How to add fonts to the pubspec.yaml file](https://flutter.dev/docs/cookbook/design/package-fonts)
 * [The Icons Class](https://docs.flutter.io/flutter/material/Icons-class.html)
+* [Material Design Icons](https://material.io/tools/icons/?style=baseline)
+* [Icons on materialpalette.com](https://www.materialpalette.com/icons)
+* [Card Class Documentation](https://docs.flutter.io/flutter/material/Card-class.html)
+
