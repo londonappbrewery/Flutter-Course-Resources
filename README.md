@@ -43,7 +43,7 @@
 * [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-
+* [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
 
 
 
