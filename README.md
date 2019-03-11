@@ -38,3 +38,13 @@
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
 
+## 4. Dicee App
+
+* [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
+* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
+* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+
+
+
+
+
