@@ -53,6 +53,8 @@
 * [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
 * [Guide to Using Flutter Packages](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+* [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
+* [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 
 
 
