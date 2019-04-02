@@ -78,5 +78,9 @@
 
 * [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
 * [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
+* [Using Themes](https://flutter.dev/docs/cookbook/design/themes)
+* [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
+* [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
+* [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
 
 
