@@ -87,4 +87,6 @@
 * [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
 * [The Key Class](https://docs.flutter.io/flutter/foundation/Key-class.html)
 * [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
+* [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
+
 
