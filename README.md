@@ -82,5 +82,8 @@
 * [The Flutter Cookbook](https://flutter.dev/docs/cookbook)
 * [ThemeData Class](https://api.flutter.dev//flutter/material/ThemeData-class.html)
 * [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
+* [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
+* [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
+
 
 
