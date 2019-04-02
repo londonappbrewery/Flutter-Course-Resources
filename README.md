@@ -48,7 +48,11 @@
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
 
-## 5. Xylophone App
+## 5. Magic 8 Ball Challenge
+
+* [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
+
+## 6. Xylophone App
 
 * [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
@@ -56,14 +60,23 @@
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
 * [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 * [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
-* [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
 
-## 6. Quizzler App
+## 7. Quizzler App
 
 * [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
 * [Dart List Language Tour](https://www.dartlang.org/guides/libraries/library-tour#collections)
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
+* [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
+
+## 8. Destini Challenge
+
+* [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
+
+## 9. BMI App
+
+* [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
+* [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
 
 
