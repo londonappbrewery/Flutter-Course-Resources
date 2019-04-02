@@ -85,6 +85,6 @@
 * [Find Color HEX codes easily with the Colorzilla plugin](http://www.colorzilla.com/)
 * [The Color Class](https://docs.flutter.io/flutter/dart-ui/Color-class.html)
 * [How do HEX codes for with colours?](https://stackoverflow.com/questions/22239803/how-does-hexadecimal-color-work)
-
-
+* [The Key Class](https://docs.flutter.io/flutter/foundation/Key-class.html)
+* [When to Use Keys - Flutter Widgets 101 Ep. 4](https://www.youtube.com/watch?v=kn0EOS-ZiIc)
 
