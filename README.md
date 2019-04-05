@@ -91,6 +91,7 @@
 * [Font Awesome Flutter Package](https://pub.dartlang.org/packages/font_awesome_flutter)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
+* [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
 
  
  
