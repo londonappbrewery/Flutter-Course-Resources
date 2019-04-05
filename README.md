@@ -90,6 +90,8 @@
 * [Dart Language Tour: Final and Const](https://www.dartlang.org/guides/language/language-tour#final-and-const)
 * [Font Awesome Flutter Package](https://pub.dartlang.org/packages/font_awesome_flutter)
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
+* [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
+
  
  
 
