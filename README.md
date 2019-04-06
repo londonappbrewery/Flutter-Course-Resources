@@ -92,6 +92,7 @@
 * [The GestureDetector Class](https://docs.flutter.io/flutter/widgets/GestureDetector-class.html)
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
 * [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
+* [ShapeBorder Class](https://docs.flutter.io/flutter/painting/ShapeBorder-class.html)
 
  
  
