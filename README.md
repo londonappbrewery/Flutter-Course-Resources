@@ -93,6 +93,7 @@
 * [Slider Class](https://docs.flutter.io/flutter/material/Slider-class.html)
 * [FloatingActionButton Class](https://docs.flutter.io/flutter/material/FloatingActionButton-class.html)
 * [ShapeBorder Class](https://docs.flutter.io/flutter/painting/ShapeBorder-class.html)
+* [RawMaterialButton Class](https://docs.flutter.io/flutter/material/RawMaterialButton-class.html)
 
  
  
