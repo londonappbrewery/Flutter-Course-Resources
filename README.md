@@ -108,6 +108,11 @@
 * [Illustrating Lifecycles with the LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
 * [Location Refactoring Challenge Instructions](https://github.com/londonappbrewery/Clima-Flutter-Location-Refactor-Challenge)
 * [OpenWeatherMap APIs](https://openweathermap.org/api)
+* [Fetching Data from the Internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
+* [The Dart http package](https://pub.dartlang.org/packages/http)
+* [OpenWeatherMap Current Weather Documentation](https://openweathermap.org/current)
+
+
 
 
 
