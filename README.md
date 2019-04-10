@@ -111,6 +111,9 @@
 * [Fetching Data from the Internet](https://flutter.dev/docs/cookbook/networking/fetch-data)
 * [The Dart http package](https://pub.dartlang.org/packages/http)
 * [OpenWeatherMap Current Weather Documentation](https://openweathermap.org/current)
+* [HTTP Package API Reference](https://pub.dartlang.org/documentation/http/latest/)
+* [HTTP Response Class Documentation](https://pub.dartlang.org/documentation/http/latest/http/Response-class.html)
+* [List of HTTP Status Codes](https://www.restapitutorial.com/httpstatuscodes.html)
 
 
 
