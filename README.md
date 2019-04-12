@@ -118,6 +118,10 @@
 * [JSON Mate: Formatting and Viewing JSON without a plugin](http://jsonmate.com/)
 * [Loading Indicators from the Flutter Spinkit](https://pub.dartlang.org/packages/flutter_spinkit)
 * [The State Class](https://docs.flutter.io/flutter/widgets/State-class.html)
+* [https://openweathermap.org/weather-conditions](https://openweathermap.org/weather-conditions)
+* [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
+* [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
+
 
 
 
