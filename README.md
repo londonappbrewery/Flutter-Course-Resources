@@ -122,7 +122,12 @@
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
 
+## 11. Am I Rich? (a.k.a. Bitcoin Ticker)
 
+* [Bitcoin Ticker Stub Project](https://github.com/londonappbrewery/bitcoin-ticker-flutter)
+* [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
+* [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
+* [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
 
 
 
