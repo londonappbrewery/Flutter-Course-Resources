@@ -129,12 +129,16 @@
 * [Dropdown Menu Design](https://material.io/design/components/menus.html#dropdown-menu)
 * [99 Bottles of Beer Programming Language Collection](http://www.99-bottles-of-beer.net/)
 * [DartPad For in Loop Mini Challenge](https://dartpad.dartlang.org/88fd2dd04c921892515bcd0567ef1636)
-* [Bitcoin Average API Docs](https://apiv2.bitcoinaverage.com/)
+* [Cupertino (iOS) Style Widgets](https://flutter.dev/docs/development/ui/widgets/cupertino)
+* [CupertinoPicker Class Documentation](https://docs.flutter.io/flutter/cupertino/CupertinoPicker-class.html)
+* [Bitcoin Average API Docs on Ticker Data](https://apiv2.bitcoinaverage.com/#ticker-data-per-symbol)
 * [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
 * [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
 * [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
 
+## 12. Flash Chat
 
+* [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
 
 
 
