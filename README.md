@@ -144,6 +144,8 @@
 * [Curves Class Documentation](https://docs.flutter.io/flutter/animation/Curves-class.html)
 * [CurvedAnimation Class Documentation](https://docs.flutter.io/flutter/animation/CurvedAnimation-class.html)
 * [Tween Animation Class](https://docs.flutter.io/flutter/animation/Tween-class.html)
+* [Dart Language Tour: Mixins](https://www.dartlang.org/guides/language/language-tour#adding-features-to-a-class-mixins)
+
 
 
 
