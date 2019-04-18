@@ -149,6 +149,7 @@
 * [Pre-packaged Animations: Rubber](https://pub.dartlang.org/packages/rubber)
 * [Pre-packaged Animations: Sprung](https://pub.dartlang.org/packages/sprung)
 * [Pre-packaged Animations: Animated Text Kit](https://pub.dartlang.org/packages/animated_text_kit)
+* [Refactoring Challenge Instructions](https://github.com/londonappbrewery/Flash-Chat-Flutter-Refactor-Challenge)
 
 
 
