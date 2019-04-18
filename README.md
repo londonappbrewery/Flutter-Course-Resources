@@ -145,6 +145,14 @@
 * [CurvedAnimation Class Documentation](https://docs.flutter.io/flutter/animation/CurvedAnimation-class.html)
 * [Tween Animation Class](https://docs.flutter.io/flutter/animation/Tween-class.html)
 * [Dart Language Tour: Mixins](https://www.dartlang.org/guides/language/language-tour#adding-features-to-a-class-mixins)
+* [Pre-packaged Animations: Flutter Sequence Animation](https://pub.dartlang.org/packages/flutter_sequence_animation)
+* [Pre-packaged Animations: Rubber](https://pub.dartlang.org/packages/rubber)
+* [Pre-packaged Animations: Sprung](https://pub.dartlang.org/packages/sprung)
+* [Pre-packaged Animations: Animated Text Kit](https://pub.dartlang.org/packages/animated_text_kit)
+
+
+
+
 
 
 
