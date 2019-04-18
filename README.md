@@ -140,7 +140,7 @@
 
 * [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
-* [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)0
+* [Hero Animations](https://flutter.dev/docs/development/ui/animations/hero-animations)
 * [Curves Class Documentation](https://docs.flutter.io/flutter/animation/Curves-class.html)
 * [CurvedAnimation Class Documentation](https://docs.flutter.io/flutter/animation/CurvedAnimation-class.html)
 * [Tween Animation Class](https://docs.flutter.io/flutter/animation/Tween-class.html)
