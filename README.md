@@ -154,6 +154,8 @@
 * [Firebase Core Package for Flutter](https://pub.dartlang.org/packages/firebase_core)
 * [Firebase Auth Package for Flutter](https://pub.dartlang.org/packages/firebase_auth)
 * [Cloud Firestore Package for Flutter](https://pub.dartlang.org/packages/cloud_firestore)
+* [Troubleshooting Firebase & Flutter: Common Errors](https://blog.londonappbrewery.com/troubleshooting-firebase-x-flutter-a974b2645689)
+
 
 
 
