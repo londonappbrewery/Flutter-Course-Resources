@@ -157,6 +157,7 @@
 * [Troubleshooting Firebase & Flutter: Common Errors](https://blog.londonappbrewery.com/troubleshooting-firebase-x-flutter-a974b2645689)
 * [Showing a Spinner: The Modal Progress HUD](https://pub.dartlang.org/packages/modal_progress_hud)
 * [Firebase Documentation](https://firebase.google.com/docs/)
+* [Kitsune-kun visualising Dart Streams and Nagashi Sōmen](https://vimeo.com/47912950)
 
 
 
