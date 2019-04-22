@@ -158,6 +158,7 @@
 * [Showing a Spinner: The Modal Progress HUD](https://pub.dartlang.org/packages/modal_progress_hud)
 * [Firebase Documentation](https://firebase.google.com/docs/)
 * [Kitsune-kun visualising Dart Streams and Nagashi Sōmen](https://vimeo.com/47912950)
+* [StreamBuilder Class Documentation](https://docs.flutter.io/flutter/widgets/StreamBuilder-class.html)
 
 
 
