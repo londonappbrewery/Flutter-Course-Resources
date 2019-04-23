@@ -160,6 +160,7 @@
 * [Kitsune-kun visualising Dart Streams and Nagashi Sōmen](https://vimeo.com/47912950)
 * [StreamBuilder Class Documentation](https://docs.flutter.io/flutter/widgets/StreamBuilder-class.html)
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
+* [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
 
 
 
