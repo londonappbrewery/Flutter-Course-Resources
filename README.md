@@ -3,6 +3,7 @@
 ## Setting Up for Flutter Development
 
 * [Getting Started: Installing Flutter](https://flutter.dev/docs/get-started/install)
+* [Git for Windows](https://git-scm.com/download/win)
 * [Install Android Studio](https://developer.android.com/studio/)
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
@@ -18,6 +19,8 @@
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
+
+* [Troubleshooting Steps](TODO)
 
 ## 2. I Am Poor App
 
