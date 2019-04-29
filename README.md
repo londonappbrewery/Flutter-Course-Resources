@@ -8,6 +8,7 @@
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
+
 ## 1. I Am Rich App
 
 * [Material Design](https://material.io/)
@@ -19,8 +20,8 @@
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
-
-* [Troubleshooting Steps](TODO)
+* [Troubleshooting: Physical iOS Device Testing](https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62)
+* [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08)
 
 ## 2. I Am Poor App
 
@@ -162,7 +163,7 @@
 * [Firebase Core Package for Flutter](https://pub.dartlang.org/packages/firebase_core)
 * [Firebase Auth Package for Flutter](https://pub.dartlang.org/packages/firebase_auth)
 * [Cloud Firestore Package for Flutter](https://pub.dartlang.org/packages/cloud_firestore)
-* [Troubleshooting Firebase & Flutter: Common Errors](https://blog.londonappbrewery.com/troubleshooting-firebase-x-flutter-a974b2645689)
+* [Troubleshooting: Firebase & Flutter: Common Errors](https://blog.londonappbrewery.com/troubleshooting-firebase-x-flutter-a974b2645689)
 * [Showing a Spinner: The Modal Progress HUD](https://pub.dartlang.org/packages/modal_progress_hud)
 * [Firebase Documentation](https://firebase.google.com/docs/)
 * [Kitsune-kun visualising Dart Streams and Nagashi Sōmen](https://vimeo.com/47912950)
