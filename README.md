@@ -1,5 +1,7 @@
 # Flutter-Course-Resources
 
+* [Cornell Note Taking System - App Brewery Template](https://drive.google.com/uc?export=download&id=1RfRLujREfLx1PSpw9bubNDsvRuknJ5ek)
+
 ## Setting Up for Flutter Development
 
 * [Getting Started: Installing Flutter](https://flutter.dev/docs/get-started/install)
