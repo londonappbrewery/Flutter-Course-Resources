@@ -174,6 +174,7 @@
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
+* [The Dart Programming Language-Addison-Wesley (2015).pdf](https://github.com/jerald-jacob/Dart-programing/blob/master/Gilad%20Bracha%20-%20The%20Dart%20Programming%20Language-Addison-Wesley%20(2015).pdf)
 
 
 
