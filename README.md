@@ -175,6 +175,21 @@
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
 
+## 13. Flutter State Management
+
+* [Todoey Stub Project](https://github.com/londonappbrewery/todoey-flutter)
+* [Todoey Design Guide](https://drive.google.com/uc?export=download&id=1Kz6y_DZA6slg-56kktB4Svkk1XNY8ACX)
+* [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
+* [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
+* [WidgetBuilder function](https://api.flutter.dev/flutter/widgets/WidgetBuilder.html)
+* [The ListView Class](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+* [Flutter State Management at Google I/O 2019](https://youtu.be/d_m5csmrf7I)
+* [The Provider Package](https://pub.dev/packages/provider)
+* [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
+
+
+
+
 
 
 
