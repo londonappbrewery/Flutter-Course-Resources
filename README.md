@@ -56,6 +56,7 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
+* [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
 
 ## Section 7: Dicee - Building Apps with State
 
