@@ -93,6 +93,7 @@
 ## Section 11: Boss Level Challenge 2 - Destini
 
 * [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
+* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
 
 ## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
@@ -155,6 +156,7 @@
 * [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
 * [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
 * [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
+* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
 
 ## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
 
