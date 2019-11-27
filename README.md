@@ -189,6 +189,7 @@
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
+* [Flash Chat Completed Project](https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete)
 
 ## Section 16: Flutter State Management
 
