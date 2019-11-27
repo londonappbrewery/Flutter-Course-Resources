@@ -67,6 +67,7 @@
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
+* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
 
 ## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
@@ -80,6 +81,7 @@
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
 * [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 * [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
+* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
 
 ## Section 10: Quizzler - Modularising & Organising Flutter Code
 
@@ -120,6 +122,7 @@
 * [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
+* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
  
@@ -143,6 +146,7 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
+* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
 
 ## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
