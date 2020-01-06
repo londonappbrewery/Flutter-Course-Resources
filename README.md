@@ -1,8 +1,12 @@
 # Flutter-Course-Resources
 
+## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
+
+* [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
 * [Cornell Note Taking System - App Brewery Template](https://drive.google.com/uc?export=download&id=1RfRLujREfLx1PSpw9bubNDsvRuknJ5ek)
 
-## Setting Up for Flutter Development
+
+## Section 2: Setting Up for Flutter Development
 
 * [Getting Started: Installing Flutter](https://flutter.dev/docs/get-started/install)
 * [Git for Windows](https://git-scm.com/download/win)
@@ -10,7 +14,7 @@
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
 
-## 1. I Am Rich App
+## Section 3: I Am Rich - How to Create Flutter Apps from Scratch
 
 * [Material Design](https://material.io/)
 * [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
@@ -21,18 +25,21 @@
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
+
+## Section 4: Running Your App on a Physical Device
+
 * [Flutter Documentation on Deploying to Physical iOS Devices](https://flutter.dev/docs/get-started/install/macos#deploy-to-ios-devices)
 * [Homebrew for MacOS](https://brew.sh/)
 * [Troubleshooting: Physical iOS Device Testing](https://blog.londonappbrewery.com/troubleshooting-ios-device-testing-for-flutter-38c5da239e62)
 * [Troubleshooting: Physical Android Device Testing](https://blog.londonappbrewery.com/troubleshooting-android-device-testing-on-windows-a2b5d779df08)
 
-## 2. I Am Poor App
+## Section 5: I Am Poor - App Challenge
 
 * [Icons8](https://icons8.com/)
 * [Vecteezy](https://www.vecteezy.com/)
 * [Canva](https://www.canva.com/)
 
-## 3. MiCard App
+## Section 6: MiCard - How to Build Beautiful UIs with Flutter Widgets
 
 * [MiCard Stub Project](https://github.com/londonappbrewery/mi_card_flutter)
 * [Widgets Catalogue](https://flutter.dev/docs/development/ui/widgets)
@@ -49,8 +56,9 @@
 * [The Padding Class](https://docs.flutter.io/flutter/widgets/Padding-class.html)
 * [The ListTile Class](https://docs.flutter.io/flutter/material/ListTile-class.html)
 * [Flutter's Horizontal Rule - The Divider](https://docs.flutter.io/flutter/material/Divider-class.html)
+* [MiCard Completed Project](https://github.com/londonappbrewery/MiCard-Completed)
 
-## 4. Dicee App
+## Section 7: Dicee - Building Apps with State
 
 * [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
 * [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
@@ -59,12 +67,13 @@
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
 * [Dart Math Library](https://api.dartlang.org/stable/2.2.0/dart-math/dart-math-library.html)
 * [Random Class](https://api.dartlang.org/stable/2.2.0/dart-math/Random-class.html)
+* [Dicee Completed Project](https://github.com/londonappbrewery/Dicee-Flutter-Completed)
 
-## 5. Magic 8 Ball Challenge
+## Section 8: Boss Level Challenge 1 - Magic 8 Ball
 
 * [Magic 8 Ball Stub](https://github.com/londonappbrewery/magic-8-ball-flutter)
 
-## 6. Xylophone App
+## Section 9: Xylophone - Using Flutter and Dart Packages to Speed Up Development
 
 * [XyloPhone Stub Project](https://github.com/londonappbrewery/xylophone-flutter)
 * [Flutter Packages](https://pub.dartlang.org/flutter)
@@ -72,8 +81,9 @@
 * [Luan Nico's Audioplayers Package](https://pub.dartlang.org/packages/audioplayers)
 * [AudioCache Documentation](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 * [DartPad Functions Exercise](https://dartpad.dartlang.org/4bf7549c820d1adb4be8673e92820e43)
+* [Xylophone Completed Project](https://github.com/londonappbrewery/Xylophone-Flutter-Completed)
 
-## 7. Quizzler App
+## Section 10: Quizzler - Modularising & Organising Flutter Code
 
 * [Quizzler Stub Project](https://github.com/londonappbrewery/quizzler-flutter)
 * [List Gist for DartPad List Practice](https://gist.github.com/angelabauer/f9db1b64cf51623d42b1ac1722bd016c)
@@ -81,12 +91,14 @@
 * [RFlutter Alert Package](https://pub.dartlang.org/packages/rflutter_alert)
 * [Dart Constructors](https://www.dartlang.org/guides/language/language-tour#constructors)
 * [Quizzler Starting File for Challenge](https://github.com/londonappbrewery/quizzler-flutter-challenge-starting)
+* [Quizzler Solution & Completed Project](https://github.com/londonappbrewery/quizzler-flutter-challenge-final)
 
-## 8. Destini Challenge
+## Section 11: Boss Level Challenge 2 - Destini
 
 * [Destini Stub](https://github.com/londonappbrewery/destini-challenge-starting)
+* [Destini Solution & Completed Project](https://github.com/londonappbrewery/destini-challenge-completed/)
 
-## 9. BMI App
+## Section 12: BMI Calculator - Building Flutter UIs for Intermediates
 
 * [BMI Stub Project](https://github.com/londonappbrewery/bmi-calculator-flutter)
 * [Dribbble: Find Designers and Design inspiration](https://dribbble.com/)
@@ -110,8 +122,9 @@
 * [LAB Navigation Demo](https://github.com/londonappbrewery/Navigation-Flutter-Demo)
 * [Navigate with Named Routes](https://flutter.dev/docs/cookbook/navigation/named-routes)
 * [Definition of the Body Mass Index (BMI)](https://en.wikipedia.org/wiki/Body_mass_index)
+* [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
 
-## 10. Clima App
+## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
  
 * [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
@@ -133,8 +146,9 @@
 * [OpenWeatherMap Weather Conditions](https://openweathermap.org/weather-conditions)
 * [Create and Style a TextField](https://flutter.dev/docs/cookbook/forms/text-input)
 * [The TextField Class](https://docs.flutter.io/flutter/material/TextField-class.html)
+* [Clima Completed Project](https://github.com/londonappbrewery/Clima-Flutter-Completed)
 
-## 11. Am I Rich? (a.k.a. Bitcoin Ticker)
+## Section 14: Boss Level Challenge 3 - Bitcoin Ticker (a.k.a. Am I Rich?)
 
 * [Bitcoin Ticker Stub Project](https://github.com/londonappbrewery/bitcoin-ticker-flutter)
 * [Flutter DropdownButton](https://docs.flutter.io/flutter/material/DropdownButton-class.html)
@@ -147,8 +161,9 @@
 * [Bronze Challenge Start Code](https://github.com/londonappbrewery/bitcoin-flutter-challenge-start)
 * [Silver Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-silver-start)
 * [Gold Challenge Starter Code](https://github.com/londonappbrewery/bitcoin-flutter-gold-start)
+* [Bitcoin Completed Project](https://github.com/londonappbrewery/bitcoin-flutter-final)
 
-## 12. Flash Chat
+## Section 15: Flash Chat - Flutter x Firebase Cloud Firestore
 
 * [Flash Chat Stub Project](https://github.com/londonappbrewery/flash-chat-flutter)
 * [Dart Language Keywords](https://www.dartlang.org/guides/language/language-tour#keywords)
@@ -174,7 +189,7 @@
 * [AsyncSnapshot Class Documentation](https://docs.flutter.io/flutter/widgets/AsyncSnapshot-class.html)
 * [ListView Class Documentation](https://docs.flutter.io/flutter/widgets/ListView-class.html)
 * [Guide to the Firestore Security Rules](https://firebase.google.com/docs/firestore/security/get-started)
-* [The Dart Programming Language-Addison-Wesley (2015).pdf](https://github.com/jerald-jacob/Dart-programing/blob/master/Gilad%20Bracha%20-%20The%20Dart%20Programming%20Language-Addison-Wesley%20(2015).pdf)
+
 
 
 
