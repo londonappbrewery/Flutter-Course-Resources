@@ -10,6 +10,7 @@
 
 * [Getting Started: Installing Flutter](https://flutter.dev/docs/get-started/install)
 * [Git for Windows](https://git-scm.com/download/win)
+* [Git for Mac](https://desktop.github.com)
 * [Install Android Studio](https://developer.android.com/studio/)
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
 
