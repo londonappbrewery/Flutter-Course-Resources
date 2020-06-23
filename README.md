@@ -195,6 +195,7 @@
 
 ## Section 16: Flutter State Management
 
+* [State Management Example](https://github.com/londonappbrewery/state_management-flutter.git)
 * [Todoey Design Guide](https://drive.google.com/uc?export=download&id=1Kz6y_DZA6slg-56kktB4Svkk1XNY8ACX)
 * [Flutter BottomSheet Class](https://api.flutter.dev/flutter/material/BottomSheet-class.html)
 * [showModalBottomSheet() function](https://api.flutter.dev/flutter/material/showModalBottomSheet.html)
