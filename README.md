@@ -1,6 +1,6 @@
 # Flutter-Course-Resources
 
-## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
+## Section 1: Introduction to Cross-Platform Development with Flutter and Dart The Coarse
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
 * [Cornell Note Taking System - App Brewery Template](https://drive.google.com/uc?export=download&id=1RfRLujREfLx1PSpw9bubNDsvRuknJ5ek)
