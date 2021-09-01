@@ -29,7 +29,8 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [Make Flowcharts with Draw.io](https://www.draw.io/)
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
-* [Generating App Icons with AppIcon.co](https://appicon.co/)
+* [Generating App Icons with easyappicon.com](https://easyappicon.com/)
+* [App Icon and App Image](https://drive.google.com/drive/folders/1ISC078QfH1-BMVlDwKTSCjsi41F26sFG?usp=sharing)
 
 ### Running Your App on a Physical Device
 
