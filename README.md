@@ -3,6 +3,13 @@ Fall 2021, Eternal University, Baru Sahib, HP
 
 src: https://github.com/londonappbrewery/Flutter-Course-Resources
 
+### In Class Code 
+* [In-Class Exercise 1.1 - Lego Blocks Counter - Starter Code
+](https://gist.github.com/cingh-jasdeep/45e77c49727e908b2a5ade852589ab46)
+* [In-Class Exercise 1.2 - Open Source Custom Button - Starter Code](https://gist.github.com/cingh-jasdeep/5e69552b340273d5413e3511741c8d6d)
+* [In Class Code 1.3 / 2.1 Anatomy of a Flutter App](https://gist.github.com/cingh-jasdeep/0374707c4a1fba40a2d4cb0a7de54062)
+* [In Class Code 2.2, Hello World](https://gist.github.com/cingh-jasdeep/0b42682eb7666c6087fd3f7627c8527b)
+* [In Class Code 2.3, Scaffold app](https://gist.github.com/cingh-jasdeep/d1a7d8efb14df49337115d4c123b5dfe)
 
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
