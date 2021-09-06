@@ -11,6 +11,12 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [In Class Code 2.2, Hello World](https://gist.github.com/cingh-jasdeep/0b42682eb7666c6087fd3f7627c8527b)
 * [In Class Code 2.3, Scaffold app](https://gist.github.com/cingh-jasdeep/d1a7d8efb14df49337115d4c123b5dfe)
 
+### Lecture Slides
+* [Lecture#1](https://docs.google.com/presentation/d/17E1iOGQK41FX6WrAGvOU_KVW59a7Gh5LynuTxCdfguQ/edit)
+* [Lecture#2](https://docs.google.com/presentation/d/1JLm-Z6sJ9H3KoKOzsvYanZx-8c1oU3dJDtDMIqi6M34/edit)
+* [Lecture#3](https://docs.google.com/presentation/d/1RetKleGwCzp-n8G1TzL816RujmVmqKjHqKdDj4lWUXs/edit)
+
+
 ### Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
