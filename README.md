@@ -10,6 +10,7 @@ src: https://github.com/londonappbrewery/Flutter-Course-Resources
 * [In Class Code 1.3 / 2.1 Anatomy of a Flutter App](https://gist.github.com/cingh-jasdeep/0374707c4a1fba40a2d4cb0a7de54062)
 * [In Class Code 2.2, Hello World](https://gist.github.com/cingh-jasdeep/0b42682eb7666c6087fd3f7627c8527b)
 * [In Class Code 2.3, Scaffold app](https://gist.github.com/cingh-jasdeep/d1a7d8efb14df49337115d4c123b5dfe)
+* [In Class Code Challenge 4.1c](https://gist.github.com/cingh-jasdeep/9f329b80f34ae91ac19d7fa73bb129ac)
 
 ### Lecture Slides
 * [Lecture#1](https://docs.google.com/presentation/d/17E1iOGQK41FX6WrAGvOU_KVW59a7Gh5LynuTxCdfguQ/edit)
