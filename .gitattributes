@@ -1,0 +1,2 @@
+i_am_poor filter=lfs diff=lfs merge=lfs -text
+i_am_rich filter=lfs diff=lfs merge=lfs -text
