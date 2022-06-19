@@ -1,4 +1,4 @@
-# Flutter-Course-Resources
+# flutter-resources (BOOTCAMP)
 
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
