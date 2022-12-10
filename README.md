@@ -18,7 +18,7 @@
 ## Section 3: I Am Rich - How to Create Flutter Apps from Scratch
 
 * [Material Design](https://material.io/)
-* [Scaffold Documentation](https://docs.flutter.io/flutter/material/Scaffold-class.html)
+* [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
 * [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
 * [Material Design Colour System](https://material.io/design/color/the-color-system.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
