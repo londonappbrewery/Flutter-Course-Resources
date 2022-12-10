@@ -62,7 +62,7 @@
 ## Section 7: Dicee - Building Apps with State
 
 * [Dicee Stub Project](https://github.com/londonappbrewery/dicee-flutter)
-* [Expanded Class](https://docs.flutter.io/flutter/widgets/Expanded-class.html)
+* [Expanded Class](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
 * [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
 * [FlatButton Documentation](https://docs.flutter.io/flutter/material/FlatButton-class.html)
 * [Run code snippets on DartPad](https://dartpad.dartlang.org/)
